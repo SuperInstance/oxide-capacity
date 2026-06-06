@@ -1,0 +1,8 @@
+[package]
+name = "oxide-capacity"
+version = "0.1.0"
+edition = "2021"
+description = "GPU cluster capacity planning with ternary utilization signals. Bin packing, scale recommendations, trend prediction."
+license = "MIT"
+
+[dependencies]
